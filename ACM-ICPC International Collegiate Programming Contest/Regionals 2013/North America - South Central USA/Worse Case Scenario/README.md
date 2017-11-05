@@ -1,4 +1,4 @@
-#How I Approached This Problem
+# How I Approached This Problem
 Me being very confident in Java over the other programming languages I decided that I would write this problem in Java. Whatever programming language you are comfortable with, stick with that. After reading the problem we try to extract the important information that would help us to solve this problem.
 ## Thinking About What The Problem Is Asking for
 The key points to take from the reading are:
